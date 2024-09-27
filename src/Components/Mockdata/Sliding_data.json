@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "name": "Running Shoes",
+      "aname": "Lightweight and responsive.",
+      "description": "The Nike Epic React Flyknit foam cushioning is responsive yet lightweight, durable yet soft. This creates a sensation that not only enhances the feeling of moving forward, but makes running feel fun, too.",
+      "price": 499,
+      "currency": "USD",
+      "image_url": "https://img.freepik.com/premium-photo/running-shoes-realistic-4k-white-background_839182-6783.jpg",
+      "ratings": {
+        "stars": 4,
+        "reviews_count": 365
+      }
+    },
+    {
+      "id": 2,
+      "name": "Leather Jacket",
+      "aname": "Classic style for any occasion.",
+      "description": "Crafted from genuine leather, this jacket offers a timeless style with a sleek and modern look. Perfect for both casual and formal wear, it is designed to offer comfort and durability.",
+      "price": 299,
+      "currency": "USD",
+      "image_url": "https://img.freepik.com/premium-photo/brown-leather-jacket-with-hood-perfect-chilly-days_1019612-4810.jpg?ga=GA1.1.442708528.1726944434&semt=ais_hybrid",
+      "ratings": {
+        "stars": 4.8,
+        "reviews_count": 290
+      }
+    },
+    {
+      "id": 3,
+      "name": "Smartphone X12",
+      "aname": "Next-generation mobile technology.",
+      "description": "Featuring a 6.5-inch OLED display and a powerful A15 Bionic chip, the Smartphone X12 provides an exceptional mobile experience with enhanced performance, camera quality, and battery life.",
+      "price": 999,
+      "currency": "USD",
+      "image_url": "https://www.aipromptsdirectory.com/wp-content/uploads/2024/02/iphone_15_pro_max_isolated_object_white_background_-_50d5b583-574d-4e6a-b1b1-af6a235bbef2_2.webp",
+      "ratings": {
+        "stars": 4.5,
+        "reviews_count": 1200
+      }
+    },
+    {
+      "id": 4,
+      "name": "Slim Fit Jeans",
+      "aname": "Comfort and style in one.",
+      "description": "These slim fit jeans are made from premium denim, providing both comfort and a flattering fit. They are designed to be versatile, pairing perfectly with a range of outfits.",
+      "price": 89,
+      "currency": "USD",
+      "image_url": "https://img.freepik.com/free-photo/jeans-shirt_1203-7407.jpg?ga=GA1.1.442708528.1726944434&semt=ais_hybrid",
+      "ratings": {
+        "stars": 4.3,
+        "reviews_count": 510
+      }
+    },
+    {
+      "id": 5,
+      "name": "Gaming Laptop GX90",
+      "aname": "Powerhouse for gaming enthusiasts.",
+      "description": "Equipped with a 10th Gen Intel i7 processor, 16GB RAM, and an NVIDIA RTX 3070 GPU, the GX90 delivers top-tier gaming performance. With a 144Hz display, you can enjoy a smooth, immersive gaming experience.",
+      "price": 1599,
+      "currency": "USD",
+      "image_url": "https://img.freepik.com/premium-photo/colorful-laptop_1027230-29041.jpg?ga=GA1.1.442708528.1726944434&semt=ais_hybrid",
+      "ratings": {
+        "stars": 4.7,
+        "reviews_count": 840
+      }
+    },
+    {
+      "id": 6,
+      "name": "Wireless Earbuds",
+      "aname": "Seamless connectivity and rich sound.",
+      "description": "These wireless earbuds offer high-quality sound with noise cancellation and a long-lasting battery. Compatible with all major mobile devices, they provide an immersive audio experience on the go.",
+      "price": 199,
+      "currency": "USD",
+      "image_url": "https://img.freepik.com/premium-photo/pair-sleek-black-wireless-earbuds-white-background-showcasing-modern-design_1323188-52.jpg?ga=GA1.1.442708528.1726944434&semt=ais_hybrid",
+      "ratings": {
+        "stars": 4.6,
+        "reviews_count": 670
+      }
+    }
+  ]
+  
