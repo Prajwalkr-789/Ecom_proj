@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import sneaker from "../utils/running-shoes-realistic-4k-white-background_839182-6783-removebg-preview.png";
-import sliding from "./Mockdata/Sliding_data.json";
+import sliding from "../Mockdata/Sliding_data.json";
 
 function Cards() {
   const [ind, setind] = useState(1);
